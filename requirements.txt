@@ -1,0 +1,6 @@
+google-api-python-client==2.138.0
+google-auth-oauthlib==1.2.1
+spotipy==2.24.0
+python-dotenv==1.0.1
+backoff==2.2.1
+rapidfuzz==3.9.6
