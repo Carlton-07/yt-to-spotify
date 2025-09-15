@@ -1,5 +1,4 @@
 # yt-to-spotify
-[![CI](https://github.com/Carlton-07/yt-to-spotify/actions/workflows/ci.yml/badge.svg)](https://github.com/Carlton-07/yt-to-spotify/actions/workflows/ci.yml)
 
 # YouTube Likes → Spotify Playlist
 
