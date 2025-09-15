@@ -18,7 +18,6 @@ Turn your **YouTube Liked videos** into a **Spotify playlist** with one command.
 - **Fuzzy mapping**: Heuristics + fuzzy matching to map video titles to `{artist, track}`.
 - **No duplicates**: Checks existing playlist tracks before adding.
 - **Resilient**: Handles API rate limits and transient errors with backoff.
-- **Local-only secrets**: `.env` and `credentials/` are ignored by Git.
 
 ---
 
